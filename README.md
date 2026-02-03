@@ -1,6 +1,6 @@
 ## I'm Brigette
 
-I’m an **educator, full-stack engineer, and content creator** passionate about making programming accessible to everyone. My GitHub is packed with **free, high-quality learning resources** on web development, Python, data analysis, and more.
+I’m a **Engineer** currently learning Python now. My GitHub is packed with **free, high-quality learning resources** on web development, Python, data analysis, and more.
 
 ---
 
