@@ -1,4 +1,4 @@
-## I'm Brigette
+## Hello! I am Brigette
 
 - 🌱 I’m currently learning python
 
